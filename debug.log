@@ -1,0 +1,223 @@
+[0316/010721.216:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0316/010721.216:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0316/010721.293:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0316/010721.294:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0316/010741.686:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0316/170632.088:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0316/170632.088:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0316/170632.169:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0316/170632.170:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0316/170952.626:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0316/170952.627:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0316/170952.705:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0316/170952.706:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0316/233840.173:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0316/233840.184:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0316/233840.269:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0316/233840.271:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/011726.795:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0317/011726.795:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0317/011726.902:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/011726.904:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/012015.138:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0317/012015.138:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0317/012015.213:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/012015.215:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/012543.619:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0317/012543.619:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0317/012543.695:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/012544.503:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/014031.106:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0317/014031.106:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0317/014031.191:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/014031.430:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/015930.767:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0317/015930.768:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0317/015930.848:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/015931.006:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/020007.887:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/161038.178:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0317/161038.190:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0317/161038.268:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/161038.269:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/161333.803:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/161742.337:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0317/161742.337:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0317/161742.415:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/161742.416:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/162332.423:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0317/162332.423:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0317/162332.500:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/162332.500:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/162807.932:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0317/162807.933:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0317/162808.020:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/162808.021:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/162835.407:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/162939.609:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/163243.541:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/163530.731:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0317/163530.731:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0317/163530.815:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/163530.817:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/163547.952:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/164443.931:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0317/164443.931:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0317/164444.007:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/164444.886:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/164613.965:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/164905.274:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0317/164905.274:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0317/164905.376:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/164905.377:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/164912.717:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/165846.307:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0317/165846.307:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0317/165846.382:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/165847.512:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/172308.358:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0317/172308.358:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0317/172308.434:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/172308.600:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/201417.341:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0317/201417.365:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0317/201417.523:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/201417.524:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/201450.125:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0317/201609.187:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0320/011632.784:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0320/011632.784:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0320/011632.878:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0320/011632.879:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0320/011653.196:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0320/021815.514:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0320/021815.514:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0320/021815.608:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0320/021815.610:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0320/023247.244:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0404/105152.119:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0404/105152.142:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0404/105152.317:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0404/105152.318:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/161616.800:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0405/161616.821:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0405/161616.925:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/161616.927:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/161751.643:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/161821.428:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/161847.463:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/162530.553:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0405/162530.553:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0405/162530.671:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/162530.673:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/162541.431:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/162546.807:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/185611.609:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0405/185611.631:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0405/185611.722:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/185611.723:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/185627.186:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/185636.589:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/185830.738:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/185846.400:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/185859.473:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/185926.537:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/185950.118:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/190002.790:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/190215.370:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/190229.415:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/190250.458:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/190258.497:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/190405.116:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/192234.684:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0405/192234.684:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0405/192234.767:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/192234.768:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0405/192250.370:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0406/104952.639:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0406/104952.657:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0406/104952.765:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0406/104952.766:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0406/110847.913:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0406/110847.913:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0406/110847.994:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0406/110849.342:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0715/102648.948:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0715/102648.966:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0715/102649.051:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0715/102649.052:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0715/113643.960:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0715/113643.986:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0715/113644.095:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0715/113644.097:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0715/114426.029:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0715/114426.030:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0715/114426.118:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0715/114426.120:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0715/114943.802:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0715/114943.802:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0715/114943.869:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0715/114943.870:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0813/124658.373:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0813/124658.413:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0813/124658.531:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0813/124658.532:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0813/130547.460:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0813/130547.473:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0813/130547.609:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0813/130547.611:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0813/130713.474:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0813/130747.220:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0813/134116.956:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0813/135609.569:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0826/130723.429:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0826/130723.485:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0826/130724.078:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0826/130724.079:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0826/130907.525:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0826/131003.239:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0826/131120.347:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0901/174757.885:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0901/174757.909:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0901/174758.185:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0901/174758.186:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0903/170705.890:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0903/170705.905:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/170706.158:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0903/170706.159:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0905/051326.098:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0905/051326.571:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0905/051327.495:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/051327.495:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/051327.577:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0905/051327.578:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0905/165215.642:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/165215.654:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/165215.729:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0905/165215.730:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0905/165237.833:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0905/165334.356:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/165334.356:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/165334.419:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0905/165334.420:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0905/170230.985:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/170230.985:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/170231.062:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0905/170231.064:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0905/170428.044:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0905/170428.044:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/170428.140:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0905/170428.142:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0907/212559.802:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0907/212559.820:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0907/212559.916:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0907/212559.917:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0907/212618.603:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0907/212839.362:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0907/233229.693:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0907/233229.693:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0907/233229.763:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0907/233229.764:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
+[0907/234445.555:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Critical) eglInitialize: No available renderers.
+[0907/234445.556:ERROR:gl_surface_egl.cc(1115)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0907/234445.732:ERROR:gl_surface_egl.cc(668)] EGL Driver message (Error) eglQueryDeviceAttribEXT: Bad attribute.
